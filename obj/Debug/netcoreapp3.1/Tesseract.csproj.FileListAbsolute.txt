@@ -1,0 +1,14 @@
+C:\Users\minhn\source\repos\Tesseract\bin\Debug\netcoreapp3.1\Tesseract.exe
+C:\Users\minhn\source\repos\Tesseract\bin\Debug\netcoreapp3.1\Tesseract.deps.json
+C:\Users\minhn\source\repos\Tesseract\bin\Debug\netcoreapp3.1\Tesseract.runtimeconfig.json
+C:\Users\minhn\source\repos\Tesseract\bin\Debug\netcoreapp3.1\Tesseract.runtimeconfig.dev.json
+C:\Users\minhn\source\repos\Tesseract\bin\Debug\netcoreapp3.1\Tesseract.dll
+C:\Users\minhn\source\repos\Tesseract\bin\Debug\netcoreapp3.1\Tesseract.pdb
+C:\Users\minhn\source\repos\Tesseract\obj\Debug\netcoreapp3.1\Tesseract.csproj.AssemblyReference.cache
+C:\Users\minhn\source\repos\Tesseract\obj\Debug\netcoreapp3.1\Tesseract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhn\source\repos\Tesseract\obj\Debug\netcoreapp3.1\Tesseract.AssemblyInfoInputs.cache
+C:\Users\minhn\source\repos\Tesseract\obj\Debug\netcoreapp3.1\Tesseract.AssemblyInfo.cs
+C:\Users\minhn\source\repos\Tesseract\obj\Debug\netcoreapp3.1\Tesseract.csproj.CoreCompileInputs.cache
+C:\Users\minhn\source\repos\Tesseract\obj\Debug\netcoreapp3.1\Tesseract.dll
+C:\Users\minhn\source\repos\Tesseract\obj\Debug\netcoreapp3.1\Tesseract.pdb
+C:\Users\minhn\source\repos\Tesseract\obj\Debug\netcoreapp3.1\Tesseract.genruntimeconfig.cache
